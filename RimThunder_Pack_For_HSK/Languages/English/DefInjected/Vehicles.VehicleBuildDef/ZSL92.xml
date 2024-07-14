@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RT_ZSL92_Vehicle_Blueprint.label>ZSL92</RT_ZSL92_Vehicle_Blueprint.label>
+  <RT_ZSL92_Vehicle_Blueprint.description>A light wheeled APC base on civilian truck chassis, equipped with a 30x173mm cannon and a 7.62x54mmR machine gun, also with grenade launchers, has poor armor but cheap and fast.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x2, Gunner x1，Passenger x6\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n30x173mm（Main Cannon）\n7.62x54mmR（Coaxial MG）</RT_ZSL92_Vehicle_Blueprint.description>
+
+
+</LanguageData>

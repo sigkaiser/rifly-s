@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 平衡相关 -->
+
+  <RT_Type61_Tank_Turret.label>main turret</RT_Type61_Tank_Turret.label>
+  <RT_Type61_Tank_Turret.fireModes.0.label>Single Shot</RT_Type61_Tank_Turret.fireModes.0.label>
+  <RT_Type61_Tank_Turret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; 90mmCannon</RT_Type61_Tank_Turret.gizmoDescription>
+
+  
+  <!-- 平衡相关 -->
+
+  <RT_m2hb_MGTurret.label>machine gun</RT_m2hb_MGTurret.label>
+  <RT_m2hb_MGTurret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; 50BMG</RT_m2hb_MGTurret.gizmoDescription>
+  <RT_Type74_MGTurret.label>machine gun</RT_Type74_MGTurret.label>
+  <RT_Type74_MGTurret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; 762x51mmNATO</RT_Type74_MGTurret.gizmoDescription>
+
+</LanguageData>

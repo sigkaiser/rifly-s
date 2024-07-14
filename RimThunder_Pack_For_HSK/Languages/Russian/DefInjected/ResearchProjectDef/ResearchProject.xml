@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<MoldCasting.label>литье в форму</MoldCasting.label>
+<MoldCasting.description>процесс производства, при котором жидкий материал обычно заливается в форму.</MoldCasting.description>
+
+<EngineBasis.label>изготовление двигателя</EngineBasis.label>
+<EngineBasis.description>старый добрый двигатель внутреннего сгорания, потребляющий топливо и производящий стабильный крутящий момент.</EngineBasis.description>
+
+<EnginePlus.label>Цикл Отто</EnginePlus.label>
+<EnginePlus.description>инженерное решение, предложенное в древние времена, его применение известно как четырехтактный двигатель, наиболее распространенная конструкция двигателя внутреннего сгорания для наземного транспорта, используемая в автомобилях, грузовиках, дизельных поездах и легких самолетах.</EnginePlus.description>
+
+<EngineAdvanced.label>турбонаддув</EngineAdvanced.label>
+<EngineAdvanced.description>тип реактивного двигателя, выпускающий быстро движущуюся струю нагретого газа, которая создает реактивную тягу.</EngineAdvanced.description>
+
+</LanguageData>

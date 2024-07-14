@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 載具本體 -->
+
+  <RT_Type85III_Vehicle.label>Type85-III</RT_Type85III_Vehicle.label>
+  <RT_Type85III_Vehicle.description>A 2nd generation MBT designed for foreign trade, equipped with an 120mm cannon with auto-loader and 7.62x54mmR machine gun, also with grenade launchers, applied composite armor and ERA for improved defensibility.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1，Commander x1\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n120mm（Main Cannon）\n.50BMG（Support MG）\n7.62x54mmR（Coaxial MG）</RT_Type85III_Vehicle.description>
+  <RT_Type85III_Vehicle.properties.roles.0.label>driver</RT_Type85III_Vehicle.properties.roles.0.label>
+  <RT_Type85III_Vehicle.properties.roles.1.label>gunner</RT_Type85III_Vehicle.properties.roles.1.label>
+  <RT_Type85III_Vehicle.properties.roles.2.label>commander</RT_Type85III_Vehicle.properties.roles.2.label>
+  <RT_Type85III_Vehicle.components.0.label>Engine</RT_Type85III_Vehicle.components.0.label>
+  <RT_Type85III_Vehicle.components.1.label>fuel tank</RT_Type85III_Vehicle.components.1.label>
+  <RT_Type85III_Vehicle.components.2.label>gearbox</RT_Type85III_Vehicle.components.2.label>
+  <RT_Type85III_Vehicle.components.3.label>ammo rack</RT_Type85III_Vehicle.components.3.label>
+  <RT_Type85III_Vehicle.components.4.label>transmission shaft</RT_Type85III_Vehicle.components.4.label>
+  <RT_Type85III_Vehicle.components.5.label>left track</RT_Type85III_Vehicle.components.5.label>
+  <RT_Type85III_Vehicle.components.6.label>right track</RT_Type85III_Vehicle.components.6.label>
+  <RT_Type85III_Vehicle.components.7.label>left road wheels</RT_Type85III_Vehicle.components.7.label>
+  <RT_Type85III_Vehicle.components.8.label>right road wheels</RT_Type85III_Vehicle.components.8.label>
+  <RT_Type85III_Vehicle.components.9.label>left drive sprocket</RT_Type85III_Vehicle.components.9.label>
+  <RT_Type85III_Vehicle.components.10.label>right drive sprocket</RT_Type85III_Vehicle.components.10.label>
+  <RT_Type85III_Vehicle.components.11.label>left tensioner wheel</RT_Type85III_Vehicle.components.11.label>
+  <RT_Type85III_Vehicle.components.12.label>right tensioner wheel</RT_Type85III_Vehicle.components.12.label>
+  <RT_Type85III_Vehicle.components.13.label>front armor Plating</RT_Type85III_Vehicle.components.13.label>
+  <RT_Type85III_Vehicle.components.14.label>left armor plating</RT_Type85III_Vehicle.components.14.label>
+  <RT_Type85III_Vehicle.components.15.label>right armor plating</RT_Type85III_Vehicle.components.15.label>
+  <RT_Type85III_Vehicle.components.16.label>roof armor plating</RT_Type85III_Vehicle.components.16.label>
+  <RT_Type85III_Vehicle.components.17.label>rear armor plating</RT_Type85III_Vehicle.components.17.label>
+  <RT_Type85III_Vehicle.components.18.label>main turret</RT_Type85III_Vehicle.components.18.label>
+  <RT_Type85III_Vehicle.components.19.label>front ERA</RT_Type85III_Vehicle.components.19.label>
+  <RT_Type85III_Vehicle.components.20.label>turret ERA</RT_Type85III_Vehicle.components.20.label>
+
+
+</LanguageData>

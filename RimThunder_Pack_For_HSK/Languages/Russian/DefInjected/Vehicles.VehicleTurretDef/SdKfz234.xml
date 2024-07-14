@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 主砲的Def -->
+
+  <RT_SdKfz234_Tank_Turret.label>main turret</RT_SdKfz234_Tank_Turret.label>
+  <RT_SdKfz234_Tank_Turret.fireModes.0.label>Single Shot</RT_SdKfz234_Tank_Turret.fireModes.0.label>
+  <RT_SdKfz234_Tank_Turret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; 50x420mmR</RT_SdKfz234_Tank_Turret.gizmoDescription>
+
+  <!-- 主砲的投射物 -->
+
+  <RT_GrenadeLauncher234.label>Smoke grenade launcher</RT_GrenadeLauncher234.label>
+  <RT_GrenadeLauncher234.fireModes.0.label>Single</RT_GrenadeLauncher234.fireModes.0.label>
+  <RT_GrenadeLauncher234.fireModes.1.label>Burst</RT_GrenadeLauncher234.fireModes.1.label>
+  <RT_GrenadeLauncher234.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; 40x46mm Smoke Shell</RT_GrenadeLauncher234.gizmoDescription>
+
+</LanguageData>

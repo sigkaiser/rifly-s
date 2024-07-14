@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RT_Type85III_Vehicle_Blueprint.label>Type85-III</RT_Type85III_Vehicle_Blueprint.label>
+  <RT_Type85III_Vehicle_Blueprint.description>Танк второго поколения, разработанный для внешней торговли, оснащён 120мм пушкой с автоматической перезарядкой и 7.62x54ммR пулемётом, а также гранатометами, композитной броней для большей защиты.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x1, Командир x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химическое топливо\n\n&lt;color=#b0e0e6&gt;CE Боеприпасы:&lt;/color&gt; \n125мм пушка (Основное орудие)\n12.7x108мм (Поддерживающий пулемёт)\n7.62x54ммR (Сопряжённый пулемёт)</RT_Type85III_Vehicle_Blueprint.description>
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 載具本體 -->
+
+  <RT_SdKfz6_Truck.label>Sd.Kfz.6</RT_SdKfz6_Truck.label>
+  <RT_SdKfz6_Truck.description>a half-track truck for cargo transport.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x3\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel</RT_SdKfz6_Truck.description>
+  <RT_SdKfz6_Truck.properties.roles.0.label>Driver</RT_SdKfz6_Truck.properties.roles.0.label>
+  <RT_SdKfz6_Truck.properties.roles.1.label>Passenger1</RT_SdKfz6_Truck.properties.roles.1.label>
+  <RT_SdKfz6_Truck.properties.roles.2.label>Passenger2</RT_SdKfz6_Truck.properties.roles.2.label>
+  <RT_SdKfz6_Truck.properties.roles.3.label>Passenger3</RT_SdKfz6_Truck.properties.roles.3.label>
+  <RT_SdKfz6_Truck.components.0.label>Engine</RT_SdKfz6_Truck.components.0.label>
+  <RT_SdKfz6_Truck.components.1.label>left front Suspension</RT_SdKfz6_Truck.components.1.label>
+  <RT_SdKfz6_Truck.components.2.label>right front suspension</RT_SdKfz6_Truck.components.2.label>
+  <RT_SdKfz6_Truck.components.3.label>left rear suspension</RT_SdKfz6_Truck.components.3.label>
+  <RT_SdKfz6_Truck.components.4.label>right rear suspension</RT_SdKfz6_Truck.components.4.label>
+  <RT_SdKfz6_Truck.components.5.label>gear box</RT_SdKfz6_Truck.components.5.label>
+  <RT_SdKfz6_Truck.components.6.label>fuel tank</RT_SdKfz6_Truck.components.6.label>
+  <RT_SdKfz6_Truck.components.7.label>left front Wheel</RT_SdKfz6_Truck.components.7.label>
+  <RT_SdKfz6_Truck.components.8.label>right front Wheel</RT_SdKfz6_Truck.components.8.label>
+  <RT_SdKfz6_Truck.components.9.label>left track</RT_SdKfz6_Truck.components.9.label>
+  <RT_SdKfz6_Truck.components.10.label>right track</RT_SdKfz6_Truck.components.10.label>
+  <RT_SdKfz6_Truck.components.11.label>left road wheels</RT_SdKfz6_Truck.components.11.label>
+  <RT_SdKfz6_Truck.components.12.label>right road wheels</RT_SdKfz6_Truck.components.12.label>
+  <RT_SdKfz6_Truck.components.13.label>EngineHood</RT_SdKfz6_Truck.components.13.label>
+  <RT_SdKfz6_Truck.components.14.label>Roof</RT_SdKfz6_Truck.components.14.label>
+  <RT_SdKfz6_Truck.components.15.label>cargo hold</RT_SdKfz6_Truck.components.15.label>
+  <RT_SdKfz6_Truck.components.16.label>left door panel</RT_SdKfz6_Truck.components.16.label>
+  <RT_SdKfz6_Truck.components.17.label>right door panel</RT_SdKfz6_Truck.components.17.label>
+  <RT_SdKfz6_Truck.components.18.label>front bumper</RT_SdKfz6_Truck.components.18.label>
+  <RT_SdKfz6_Truck.components.19.label>rear bumper</RT_SdKfz6_Truck.components.19.label>
+  <RT_SdKfz6_Truck.components.20.label>Interior</RT_SdKfz6_Truck.components.20.label>
+  <RT_SdKfz6_Truck.components.21.label>Dashboard</RT_SdKfz6_Truck.components.21.label>
+  <RT_SdKfz6_Truck.components.22.label>SteeringWheel</RT_SdKfz6_Truck.components.22.label>
+
+</LanguageData>

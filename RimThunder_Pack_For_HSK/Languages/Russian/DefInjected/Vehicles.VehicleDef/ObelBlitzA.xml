@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Транспортное средство -->
+
+  <RT_ObelBlitzA_Truck.label>Обель Блиц Скорая помощь</RT_ObelBlitzA_Truck.label>
+  <RT_ObelBlitzA_Truck.description>4x4 грузовик первой помощи.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x2, Пассажир x4\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо</RT_ObelBlitzA_Truck.description>
+  <RT_ObelBlitzA_Truck.properties.roles.0.label>Водитель</RT_ObelBlitzA_Truck.properties.roles.0.label>
+  <RT_ObelBlitzA_Truck.properties.roles.1.label>Пассажир</RT_ObelBlitzA_Truck.properties.roles.1.label>
+  <RT_ObelBlitzA_Truck.components.0.label>Двигатель</RT_ObelBlitzA_Truck.components.0.label>
+  <RT_ObelBlitzA_Truck.components.1.label>левая передняя подвеска</RT_ObelBlitzA_Truck.components.1.label>
+  <RT_ObelBlitzA_Truck.components.2.label>правая передняя подвеска</RT_ObelBlitzA_Truck.components.2.label>
+  <RT_ObelBlitzA_Truck.components.3.label>левая задняя подвеска</RT_ObelBlitzA_Truck.components.3.label>
+  <RT_ObelBlitzA_Truck.components.4.label>правая задняя подвеска</RT_ObelBlitzA_Truck.components.4.label>
+  <RT_ObelBlitzA_Truck.components.5.label>коробка передач</RT_ObelBlitzA_Truck.components.5.label>
+  <RT_ObelBlitzA_Truck.components.6.label>топливный бак</RT_ObelBlitzA_Truck.components.6.label>
+  <RT_ObelBlitzA_Truck.components.7.label>левое переднее колесо</RT_ObelBlitzA_Truck.components.7.label>
+  <RT_ObelBlitzA_Truck.components.8.label>правое переднее колесо</RT_ObelBlitzA_Truck.components.8.label>
+  <RT_ObelBlitzA_Truck.components.9.label>левое заднее колесо</RT_ObelBlitzA_Truck.components.9.label>
+  <RT_ObelBlitzA_Truck.components.10.label>правое заднее колесо</RT_ObelBlitzA_Truck.components.10.label>
+  <RT_ObelBlitzA_Truck.components.11.label>капот двигателя</RT_ObelBlitzA_Truck.components.11.label>
+  <RT_ObelBlitzA_Truck.components.12.label>крыша</RT_ObelBlitzA_Truck.components.12.label>
+  <RT_ObelBlitzA_Truck.components.13.label>грузовой отсек</RT_ObelBlitzA_Truck.components.13.label>
+  <RT_ObelBlitzA_Truck.components.14.label>левая дверная панель</RT_ObelBlitzA_Truck.components.14.label>
+  <RT_ObelBlitzA_Truck.components.15.label>правая дверная панель</RT_ObelBlitzA_Truck.components.15.label>
+  <RT_ObelBlitzA_Truck.components.16.label>передний бампер</RT_ObelBlitzA_Truck.components.16.label>
+  <RT_ObelBlitzA_Truck.components.17.label>задний бампер</RT_ObelBlitzA_Truck.components.17.label>
+  <RT_ObelBlitzA_Truck.components.18.label>интерьер</RT_ObelBlitzA_Truck.components.18.label>
+  <RT_ObelBlitzA_Truck.components.19.label>приборная панель</RT_ObelBlitzA_Truck.components.19.label>
+  <RT_ObelBlitzA_Truck.components.20.label>руль</RT_ObelBlitzA_Truck.components.20.label>
+
+  <RT_ObelBlitzA_Truck.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Медицинские принадлежности</RT_ObelBlitzA_Truck.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+
+</LanguageData>

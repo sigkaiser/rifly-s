@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Транспортное средство -->
+
+  <RT_Kubelwagen.label>VW82 Kubelwagen</RT_Kubelwagen.label>
+  <RT_Kubelwagen.description>Автомобиль для транспортировки экипажа 4x4.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Пассажир x3\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо</RT_Kubelwagen.description>
+  <RT_Kubelwagen.properties.roles.0.label>Водитель</RT_Kubelwagen.properties.roles.0.label>
+  <RT_Kubelwagen.properties.roles.1.label>Пассажир1</RT_Kubelwagen.properties.roles.1.label>
+  <RT_Kubelwagen.properties.roles.2.label>Пассажир2</RT_Kubelwagen.properties.roles.2.label>
+  <RT_Kubelwagen.properties.roles.3.label>Пассажир3</RT_Kubelwagen.properties.roles.3.label>
+  <RT_Kubelwagen.components.0.label>Двигатель</RT_Kubelwagen.components.0.label>
+  <RT_Kubelwagen.components.1.label>левая передняя подвеска</RT_Kubelwagen.components.1.label>
+  <RT_Kubelwagen.components.2.label>правая передняя подвеска</RT_Kubelwagen.components.2.label>
+  <RT_Kubelwagen.components.3.label>левая задняя подвеска</RT_Kubelwagen.components.3.label>
+  <RT_Kubelwagen.components.4.label>правая задняя подвеска</RT_Kubelwagen.components.4.label>
+  <RT_Kubelwagen.components.5.label>коробка передач</RT_Kubelwagen.components.5.label>
+  <RT_Kubelwagen.components.6.label>топливный бак</RT_Kubelwagen.components.6.label>
+  <RT_Kubelwagen.components.7.label>левое переднее колесо</RT_Kubelwagen.components.7.label>
+  <RT_Kubelwagen.components.8.label>правое переднее колесо</RT_Kubelwagen.components.8.label>
+  <RT_Kubelwagen.components.9.label>левое заднее колесо</RT_Kubelwagen.components.9.label>
+  <RT_Kubelwagen.components.10.label>правое заднее колесо</RT_Kubelwagen.components.10.label>
+  <RT_Kubelwagen.components.11.label>капот двигателя</RT_Kubelwagen.components.11.label>
+  <RT_Kubelwagen.components.12.label>крыша</RT_Kubelwagen.components.12.label>
+  <RT_Kubelwagen.components.13.label>левая дверная панель</RT_Kubelwagen.components.13.label>
+  <RT_Kubelwagen.components.14.label>правая дверная панель</RT_Kubelwagen.components.14.label>
+  <RT_Kubelwagen.components.15.label>запасное колесо</RT_Kubelwagen.components.15.label>
+  <RT_Kubelwagen.components.16.label>передний бампер</RT_Kubelwagen.components.16.label>
+  <RT_Kubelwagen.components.17.label>задний бампер</RT_Kubelwagen.components.17.label>
+  <RT_Kubelwagen.components.18.label>интерьер</RT_Kubelwagen.components.18.label>
+  <RT_Kubelwagen.components.19.label>приборная панель</RT_Kubelwagen.components.19.label>
+  <RT_Kubelwagen.components.20.label>руль</RT_Kubelwagen.components.20.label>
+
+</LanguageData>

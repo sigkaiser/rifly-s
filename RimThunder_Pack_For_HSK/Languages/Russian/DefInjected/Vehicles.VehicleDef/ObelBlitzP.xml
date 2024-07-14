@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Транспортное средство -->
+
+  <RT_ObelBlitzP_Truck.label>Грузовик Обель Блиц(р)</RT_ObelBlitzP_Truck.label>
+  <RT_ObelBlitzP_Truck.description>4x4 грузовик для перевозки пассажиров.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x2, Пассажир x8\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо</RT_ObelBlitzP_Truck.description>
+  <RT_ObelBlitzP_Truck.properties.roles.0.label>Водитель</RT_ObelBlitzP_Truck.properties.roles.0.label>
+  <RT_ObelBlitzP_Truck.properties.roles.1.label>Пассажир1</RT_ObelBlitzP_Truck.properties.roles.1.label>
+  <RT_ObelBlitzP_Truck.properties.roles.2.label>Пассажир2</RT_ObelBlitzP_Truck.properties.roles.2.label>
+  <RT_ObelBlitzP_Truck.properties.roles.3.label>Пассажир3</RT_ObelBlitzP_Truck.properties.roles.3.label>
+  <RT_ObelBlitzP_Truck.properties.roles.4.label>Пассажир4</RT_ObelBlitzP_Truck.properties.roles.4.label>
+  <RT_ObelBlitzP_Truck.properties.roles.5.label>Пассажир5</RT_ObelBlitzP_Truck.properties.roles.5.label>
+  <RT_ObelBlitzP_Truck.properties.roles.6.label>Пассажир6</RT_ObelBlitzP_Truck.properties.roles.6.label>
+  <RT_ObelBlitzP_Truck.properties.roles.7.label>Пассажир7</RT_ObelBlitzP_Truck.properties.roles.7.label>
+  <RT_ObelBlitzP_Truck.properties.roles.8.label>Пассажир8</RT_ObelBlitzP_Truck.properties.roles.8.label>
+  <RT_ObelBlitzP_Truck.components.0.label>Двигатель</RT_ObelBlitzP_Truck.components.0.label>
+  <RT_ObelBlitzP_Truck.components.1.label>левая передняя подвеска</RT_ObelBlitzP_Truck.components.1.label>
+  <RT_ObelBlitzP_Truck.components.2.label>правая передняя подвеска</RT_ObelBlitzP_Truck.components.2.label>
+  <RT_ObelBlitzP_Truck.components.3.label>левая задняя подвеска</RT_ObelBlitzP_Truck.components.3.label>
+  <RT_ObelBlitzP_Truck.components.4.label>правая задняя подвеска</RT_ObelBlitzP_Truck.components.4.label>
+  <RT_ObelBlitzP_Truck.components.5.label>коробка передач</RT_ObelBlitzP_Truck.components.5.label>
+  <RT_ObelBlitzP_Truck.components.6.label>топливный бак</RT_ObelBlitzP_Truck.components.6.label>
+  <RT_ObelBlitzP_Truck.components.7.label>левое переднее колесо</RT_ObelBlitzP_Truck.components.7.label>
+  <RT_ObelBlitzP_Truck.components.8.label>правое переднее колесо</RT_ObelBlitzP_Truck.components.8.label>
+  <RT_ObelBlitzP_Truck.components.9.label>левое заднее колесо</RT_ObelBlitzP_Truck.components.9.label>
+  <RT_ObelBlitzP_Truck.components.10.label>правое заднее колесо</RT_ObelBlitzP_Truck.components.10.label>
+  <RT_ObelBlitzP_Truck.components.11.label>капот двигателя</RT_ObelBlitzP_Truck.components.11.label>
+  <RT_ObelBlitzP_Truck.components.12.label>крыша</RT_ObelBlitzP_Truck.components.12.label>
+  <RT_ObelBlitzP_Truck.components.13.label>грузовой отсек</RT_ObelBlitzP_Truck.components.13.label>
+  <RT_ObelBlitzP_Truck.components.14.label>левая дверная панель</RT_ObelBlitzP_Truck.components.14.label>
+  <RT_ObelBlitzP_Truck.components.15.label>правая дверная панель</RT_ObelBlitzP_Truck.components.15.label>
+  <RT_ObelBlitzP_Truck.components.16.label>передний бампер</RT_ObelBlitzP_Truck.components.16.label>
+  <RT_ObelBlitzP_Truck.components.17.label>задний бампер</RT_ObelBlitzP_Truck.components.17.label>
+  <RT_ObelBlitzP_Truck.components.18.label>интерьер</RT_ObelBlitzP_Truck.components.18.label>
+  <RT_ObelBlitzP_Truck.components.19.label>приборная панель</RT_ObelBlitzP_Truck.components.19.label>
+  <RT_ObelBlitzP_Truck.components.20.label>руль</RT_ObelBlitzP_Truck.components.20.label>
+
+</LanguageData>

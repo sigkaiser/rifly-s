@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Транспортное средство -->
+
+  <RT_ZBD86_Vehicle.label>ZBD86</RT_ZBD86_Vehicle.label>
+  <RT_ZBD86_Vehicle.description>Боевая машина пехоты, оснащённая 81мм пушкой с автозарядкой и 7,62x54ммR пулемётом, не оснащена управляемыми ракетами, но обладает хорошей транспортной мощностью.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x2，Пассажир x8\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \nРакеты SPG9 (Главная пушка)\n7.62x54ммR (Коаксиальный пулемёт)</RT_ZBD86_Vehicle.description>
+  <RT_ZBD86_Vehicle.properties.roles.0.label>Водитель</RT_ZBD86_Vehicle.properties.roles.0.label>
+  <RT_ZBD86_Vehicle.properties.roles.1.label>Наводчик</RT_ZBD86_Vehicle.properties.roles.1.label>
+  <RT_ZBD86_Vehicle.properties.roles.2.label>Пассажир</RT_ZBD86_Vehicle.properties.roles.2.label>
+  <RT_ZBD86_Vehicle.components.0.label>Двигатель</RT_ZBD86_Vehicle.components.0.label>
+  <RT_ZBD86_Vehicle.components.1.label>Топливный бак</RT_ZBD86_Vehicle.components.1.label>
+  <RT_ZBD86_Vehicle.components.2.label>Коробка передач</RT_ZBD86_Vehicle.components.2.label>
+  <RT_ZBD86_Vehicle.components.3.label>Боекомплект</RT_ZBD86_Vehicle.components.3.label>
+  <RT_ZBD86_Vehicle.components.4.label>Трансмиссионный вал</RT_ZBD86_Vehicle.components.4.label>
+  <RT_ZBD86_Vehicle.components.5.label>Левая гусеница</RT_ZBD86_Vehicle.components.5.label>
+  <RT_ZBD86_Vehicle.components.6.label>Правая гусеница</RT_ZBD86_Vehicle.components.6.label>
+  <RT_ZBD86_Vehicle.components.7.label>Левые дорожные колеса</RT_ZBD86_Vehicle.components.7.label>
+  <RT_ZBD86_Vehicle.components.8.label>Правые дорожные колеса</RT_ZBD86_Vehicle.components.8.label>
+  <RT_ZBD86_Vehicle.components.9.label>Левый приводной звезда</RT_ZBD86_Vehicle.components.9.label>
+  <RT_ZBD86_Vehicle.components.10.label>Правый приводной звезда</RT_ZBD86_Vehicle.components.10.label>
+  <RT_ZBD86_Vehicle.components.11.label>Левое натяжное колесо</RT_ZBD86_Vehicle.components.11.label>
+  <RT_ZBD86_Vehicle.components.12.label>Правое натяжное колесо</RT_ZBD86_Vehicle.components.12.label>
+  <RT_ZBD86_Vehicle.components.13.label>Передняя бронеплита</RT_ZBD86_Vehicle.components.13.label>
+  <RT_ZBD86_Vehicle.components.14.label>Левая бронеплита</RT_ZBD86_Vehicle.components.14.label>
+  <RT_ZBD86_Vehicle.components.15.label>Правая бронеплита</RT_ZBD86_Vehicle.components.15.label>
+  <RT_ZBD86_Vehicle.components.16.label>Верхняя бронеплита</RT_ZBD86_Vehicle.components.16.label>
+  <RT_ZBD86_Vehicle.components.17.label>Задняя бронеплита</RT_ZBD86_Vehicle.components.17.label>
+  <RT_ZBD86_Vehicle.components.18.label>Основная башня</RT_ZBD86_Vehicle.components.18.label>
+
+</LanguageData>

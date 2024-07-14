@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 主砲的Def -->
+
+  <RT_ZBD86_Tank_Turret.label>main turret</RT_ZBD86_Tank_Turret.label>
+  <RT_ZBD86_Tank_Turret.fireModes.0.label>Single Shot</RT_ZBD86_Tank_Turret.fireModes.0.label>
+  <RT_ZBD86_Tank_Turret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; SPG9Rocket</RT_ZBD86_Tank_Turret.gizmoDescription>
+
+  <RT_HJ73_MissileTurret.label>missile</RT_HJ73_MissileTurret.label>
+  <RT_HJ73_MissileTurret.fireModes.0.label>Single Shot</RT_HJ73_MissileTurret.fireModes.0.label>
+  <RT_HJ73_MissileTurret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;</RT_HJ73_MissileTurret.gizmoDescription>
+</LanguageData>

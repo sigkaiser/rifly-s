@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 載具本體 -->
+
+  <RT_Kubelwagen.label>VW82 Kubelwagen</RT_Kubelwagen.label>
+  <RT_Kubelwagen.description>A 4x4 crew transport car.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x3\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel</RT_Kubelwagen.description>
+  <RT_Kubelwagen.properties.roles.0.label>Driver</RT_Kubelwagen.properties.roles.0.label>
+  <RT_Kubelwagen.properties.roles.1.label>Passenger1</RT_Kubelwagen.properties.roles.1.label>
+  <RT_Kubelwagen.properties.roles.2.label>Passenger2</RT_Kubelwagen.properties.roles.2.label>
+  <RT_Kubelwagen.properties.roles.3.label>Passenger3</RT_Kubelwagen.properties.roles.3.label>
+  <RT_Kubelwagen.components.0.label>Engine</RT_Kubelwagen.components.0.label>
+  <RT_Kubelwagen.components.1.label>left front Suspension</RT_Kubelwagen.components.1.label>
+  <RT_Kubelwagen.components.2.label>right front suspension</RT_Kubelwagen.components.2.label>
+  <RT_Kubelwagen.components.3.label>left rear suspension</RT_Kubelwagen.components.3.label>
+  <RT_Kubelwagen.components.4.label>right rear suspension</RT_Kubelwagen.components.4.label>
+  <RT_Kubelwagen.components.5.label>gear box</RT_Kubelwagen.components.5.label>
+  <RT_Kubelwagen.components.6.label>fuel tank</RT_Kubelwagen.components.6.label>
+  <RT_Kubelwagen.components.7.label>left front Wheel</RT_Kubelwagen.components.7.label>
+  <RT_Kubelwagen.components.8.label>right front Wheel</RT_Kubelwagen.components.8.label>
+  <RT_Kubelwagen.components.9.label>left rear wheel</RT_Kubelwagen.components.9.label>
+  <RT_Kubelwagen.components.10.label>right rear Wheel</RT_Kubelwagen.components.10.label>
+  <RT_Kubelwagen.components.11.label>engine hood</RT_Kubelwagen.components.11.label>
+  <RT_Kubelwagen.components.12.label>roof</RT_Kubelwagen.components.12.label>
+  <RT_Kubelwagen.components.13.label>left door panel</RT_Kubelwagen.components.13.label>
+  <RT_Kubelwagen.components.14.label>right door panel</RT_Kubelwagen.components.14.label>
+  <RT_Kubelwagen.components.15.label>backup tyre</RT_Kubelwagen.components.15.label>
+  <RT_Kubelwagen.components.16.label>front bumper</RT_Kubelwagen.components.16.label>
+  <RT_Kubelwagen.components.17.label>rear bumper</RT_Kubelwagen.components.17.label>
+  <RT_Kubelwagen.components.18.label>interior</RT_Kubelwagen.components.18.label>
+  <RT_Kubelwagen.components.19.label>dashboard</RT_Kubelwagen.components.19.label>
+  <RT_Kubelwagen.components.20.label>steering wheel</RT_Kubelwagen.components.20.label>
+
+</LanguageData>

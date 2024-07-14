@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Собрать грузовик Sd.Kfz.6 -->
+  <RT_Make_SdKfz6_Truck_Blueprint.label>Собрать грузовик Sd.Kfz.6</RT_Make_SdKfz6_Truck_Blueprint.label>
+  <RT_Make_SdKfz6_Truck_Blueprint.description>Собрать грузовик Sd.Kfz.6.</RT_Make_SdKfz6_Truck_Blueprint.description>
+
+  <!-- Собрать бронетранспортер Sd.Kfz.251 -->
+  <RT_Make_SdKfz251_Vehicle_Blueprint.label>Собрать бронетранспортер Sd.Kfz.251</RT_Make_SdKfz251_Vehicle_Blueprint.label>
+  <RT_Make_SdKfz251_Vehicle_Blueprint.description>Собрать бронетранспортер Sd.Kfz.251.</RT_Make_SdKfz251_Vehicle_Blueprint.description>
+
+  <!-- Собрать грузовик Obel Blitz (c) -->
+  <RT_Make_ObelBlitzC_Truck_Blueprint.label>Собрать грузовик Obel Blitz (c)</RT_Make_ObelBlitzC_Truck_Blueprint.label>
+  <RT_Make_ObelBlitzC_Truck_Blueprint.description>Собрать грузовик Obel Blitz (c).</RT_Make_ObelBlitzC_Truck_Blueprint.description>
+
+  <!-- Собрать машину скорой помощи Obel Blitz -->
+  <RT_Make_ObelBlitzA_Truck_Blueprint.label>Собрать машину скорой помощи Obel Blitz</RT_Make_ObelBlitzA_Truck_Blueprint.label>
+  <RT_Make_ObelBlitzA_Truck_Blueprint.description>Собрать машину скорой помощи Obel Blitz.</RT_Make_ObelBlitzA_Truck_Blueprint.description>
+
+  <!-- Собрать грузовик Obel Blitz (p) -->
+  <RT_Make_ObelBlitzP_Truck_Blueprint.label>Собрать грузовик Obel Blitz (p)</RT_Make_ObelBlitzP_Truck_Blueprint.label>
+  <RT_Make_ObelBlitzP_Truck_Blueprint.description>Собрать грузовик Obel Blitz (p).</RT_Make_ObelBlitzP_Truck_Blueprint.description>
+
+  <!-- Собрать автомобиль VW82 Kubelwagen -->
+  <RT_Make_Kubelwagen_Blueprint.label>Собрать автомобиль VW82 Kubelwagen</RT_Make_Kubelwagen_Blueprint.label>
+  <RT_Make_Kubelwagen_Blueprint.description>Собрать автомобиль VW82 Kubelwagen.</RT_Make_Kubelwagen_Blueprint.description>
+  
+  <!-- Собрать танк Type85-III -->
+  <RT_Make_Type85III_Blueprint.label>Собрать танк Type85-III</RT_Make_Type85III_Blueprint.label>
+  <RT_Make_Type85III_Blueprint.description>Собрать танк Type85-III.</RT_Make_Type85III_Blueprint.description>
+
+  <!-- Собрать танк ZTZ88A -->
+  <RT_Make_ZTZ88A_Blueprint.label>Собрать танк ZTZ88A</RT_Make_ZTZ88A_Blueprint.label>
+  <RT_Make_ZTZ88A_Blueprint.description>Собрать танк ZTZ88A.</RT_Make_ZTZ88A_Blueprint.description>
+
+  <!-- Собрать БМП ZBD86 -->
+  <RT_Make_ZBD86_Blueprint.label>Собрать БМП ZBD86</RT_Make_ZBD86_Blueprint.label>
+  <RT_Make_ZBD86_Blueprint.description>Собрать БМП ZBD86.</RT_Make_ZBD86_Blueprint.description>
+
+  <!-- Собрать бронетранспортер ZSL92 -->
+  <RT_Make_ZSL92_Blueprint.label>Собрать бронетранспортер ZSL92</RT_Make_ZSL92_Blueprint.label>
+  <RT_Make_ZSL92_Blueprint.description>Собрать бронетранспортер ZSL92.</RT_Make_ZSL92_Blueprint.description>
+
+   <!-- Собрать артиллерийскую установку PLZ83 -->
+  <RT_Make_PLZ83_Blueprint.label>Собрать артиллерийскую установку PLZ83</RT_Make_PLZ83_Blueprint.label>
+  <RT_Make_PLZ83_Blueprint.description>Собрать артиллерийскую установку PLZ83.</RT_Make_PLZ83_Blueprint.description>
+  
+  <!-- Собрать танк Panther G -->
+  <RT_Make_PantherG_Blueprint.label>Собрать танк Panther G</RT_Make_PantherG_Blueprint.label>
+  <RT_Make_PantherG_Blueprint.description>Собрать танк Panther G.</RT_Make_PantherG_Blueprint.description>
+
+  <!-- Собрать танк Pz.38(t) G -->
+  <RT_Make_Pz38tG_Blueprint.label>Собрать танк Pz.38(t) G</RT_Make_Pz38tG_Blueprint.label>
+  <RT_Make_Pz38tG_Blueprint.description>Собрать танк Pz.38(t) G.</RT_Make_Pz38tG_Blueprint.description>
+
+  <!-- Собрать танк Pz.IV H -->
+  <RT_Make_PzIVH_Blueprint.label>Собрать танк Pz.IV H</RT_Make_PzIVH_Blueprint.label>
+  <RT_Make_PzIVH_Blueprint.description>Собрать танк Pz.IV H.</RT_Make_PzIVH_Blueprint.description>
+
+  <!-- Собрать разведывательную машину Sd.Kfz.234/2 -->
+  <RT_Make_SdKfz234_Blueprint.label>Собрать разведывательную машину Sd.Kfz.234/2</RT_Make_SdKfz234_Blueprint.label>
+  <RT_Make_SdKfz234_Blueprint.description>Собрать разведывательную машину Sd.Kfz.234/2.</RT_Make_SdKfz234_Blueprint.description>
+
+  <!-- Собрать танк Tiger E -->
+  <RT_Make_TigerE_Blueprint.label>Собрать танк Tiger E</RT_Make_TigerE_Blueprint.label>
+  <RT_Make_TigerE_Blueprint.description>Собрать танк Tiger E.</RT_Make_TigerE_Blueprint.description>
+
+  <!-- Собрать ЗСУ Wirbelwind -->
+  <RT_Make_Wirbelwind_Blueprint.label>Собрать ЗСУ Wirbelwind</RT_Make_Wirbelwind_Blueprint.label>
+  <RT_Make_Wirbelwind_Blueprint.description>Собрать ЗСУ Wirbelwind.</RT_Make_Wirbelwind_Blueprint.description>
+  
+  <!-- Собрать лёгкий двигатель -->
+  <Make_EngineAssemble_Light.label>Собрать лёгкий двигатель</Make_EngineAssemble_Light.label>
+  <Make_EngineAssemble_Light.description>Собрать лёгкий двигатель, который часто используется в моторных лодках, мотоциклах и лёгких самолётах.</Make_EngineAssemble_Light.description>
+  <Make_EngineAssemble_Light.jobString>Сборка двигателя.</Make_EngineAssemble_Light.jobString>
+  
+  <!-- Собрать паровой двигатель -->
+  <Make_EngineAssemble_Steam.label>Собрать паровой двигатель</Make_EngineAssemble_Steam.label>
+  <Make_EngineAssemble_Steam.description>Собрать паровой двигатель, который часто используется в паровых судах и других механизмах.</Make_EngineAssemble_Steam.description>
+  <Make_EngineAssemble_Steam.jobString>Сборка парового двигателя.</Make_EngineAssemble_Steam.jobString>
+
+  <!-- Собрать средний двигатель -->
+  <Make_EngineAssemble_Medium.label>Собрать средний двигатель</Make_EngineAssemble_Medium.label>
+<Make_EngineAssemble_Medium.description>Собрать средний двигатель, который часто используется в танках, грузовиках и тяжёлых самолётах.</Make_EngineAssemble_Medium.description>
+<Make_EngineAssemble_Medium.jobString>Сборка двигателя.</Make_EngineAssemble_Medium.jobString>
+
+  <!-- Собрать тяжёлый двигатель -->
+<Make_EngineAssemble_Heavy.label>Собрать тяжёлый двигатель</Make_EngineAssemble_Heavy.label>
+<Make_EngineAssemble_Heavy.description>Собрать тяжёлый двигатель, который часто используется в тяжёлых танках и транспортных самолётах.</Make_EngineAssemble_Heavy.description>
+<Make_EngineAssemble_Heavy.jobString>Сборка двигателя.</Make_EngineAssemble_Heavy.jobString>
+
+
+  <!-- Собрать турбореактивный двигатель -->
+<Make_EngineAssemble_TurboJet.label>Собрать турбореактивный двигатель</Make_EngineAssemble_TurboJet.label>
+<Make_EngineAssemble_TurboJet.description>Собрать турбореактивный двигатель, который обычно используется в самолётах и ракетах, состоит из газовой турбины с сопловым устройством.</Make_EngineAssemble_TurboJet.description>
+<Make_EngineAssemble_TurboJet.jobString>Сборка двигателя.</Make_EngineAssemble_TurboJet.jobString>
+
+<!-- Собрать турбинный двигатель -->
+<Make_EngineAssemble_Turbine.label>Собрать турбинный двигатель</Make_EngineAssemble_Turbine.label>
+<Make_EngineAssemble_Turbine.description>Собрать турбинный двигатель, который работает за счёт расширения газа, приводящего в движение лопатки турбины, но с высоким расходом топлива. Широко используется в реактивных двигателях до космической эры и военных транспортных средствах.</Make_EngineAssemble_Turbine.description>
+<Make_EngineAssemble_Turbine.jobString>Сборка двигателя.</Make_EngineAssemble_Turbine.jobString>
+
+<!-- Разборка двигателя -->
+<DisassembleEngine.label>Разобрать двигатель</DisassembleEngine.label>
+<DisassembleEngine.description>Разобрать двигатель на составные части. Некоторые части могут повредиться в процессе, поэтому его нельзя полностью сохранить.</DisassembleEngine.description>
+<DisassembleEngine.jobString>Разборка.</DisassembleEngine.jobString>
+
+<!-- Извлечение металла из двигателя -->
+<ExtractMetalFromEngine.label>Извлечь металл из двигателя</ExtractMetalFromEngine.label>
+<ExtractMetalFromEngine.description>Разобрать двигатель на составные части. Некоторые части могут повредиться в процессе, поэтому его нельзя полностью сохранить.</ExtractMetalFromEngine.description>
+<ExtractMetalFromEngine.jobString>Плавка металла.</ExtractMetalFromEngine.jobString>
+
+<!-- Литьё компонентов -->
+<CastFromMold.label>Сделать литейную форму</CastFromMold.label>
+<CastFromMold.description>Используйте плавленую сталь для создания литейной формы.</CastFromMold.description>
+<CastFromMold.jobString>Литьё металла.</CastFromMold.jobString>
+
+<!-- Извлечение металла из литейной формы -->
+<ExtractMetalFromCasting.label>Извлечь металл из деталей</ExtractMetalFromCasting.label>
+<ExtractMetalFromCasting.description>Используйте тепло для переработки полезного металла из деталей.</ExtractMetalFromCasting.description>
+<ExtractMetalFromCasting.jobString>Плавка металла.</ExtractMetalFromCasting.jobString>
+
+<!-- Литьё из литейной формы -->
+<CastFromMold.label>Сделать отливку из формы</CastFromMold.label>
+<CastFromMold.description>Используйте литейную форму и плавленую сталь для создания деталей.</CastFromMold.description>
+<CastFromMold.jobString>Литьё металла.</CastFromMold.jobString>
+
+<!-- Извлечение металла из отливки -->
+<ExtractMetalFromCasting.label>Извлечь металл из деталей</ExtractMetalFromCasting.label>
+<ExtractMetalFromCasting.description>Используйте тепло для переработки полезного металла из деталей.</ExtractMetalFromCasting.description>
+<ExtractMetalFromCasting.jobString>Плавка металла из шлака.</ExtractMetalFromCasting.jobString>
+
+  <!-- RU: сделать компонент топливной системы -->
+  <Make_ComponentFuelTank.label>Сборка компонента топливной системы</Make_ComponentFuelTank.label>
+  <!-- RU: сделать компонент топливной системы. -->
+  <Make_ComponentFuelTank.description>Сборка компонента топливной системы</Make_ComponentFuelTank.description>
+  <!-- RU: Сборка металла. -->
+  <Make_ComponentFuelTank.jobString>Идёт сборка компонентов.</Make_ComponentFuelTank.jobString>
+  
+  <!-- RU: сделать компонент трансмиссии -->
+  <Make_ComponentTransmission.label>Сборка компонента трансмиссии</Make_ComponentTransmission.label>
+  <!-- RU: сделать компонент трансмиссии. -->
+  <Make_ComponentTransmission.description>Сборка компонента трансмиссии</Make_ComponentTransmission.description>
+  <!-- RU: Сборка металла. -->
+  <Make_ComponentTransmission.jobString>Идёт сборка компонентов.</Make_ComponentTransmission.jobString>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RT_SdKfz251_Vehicle_Blueprint.label>Sd.Kfz.251 Ausf.D</RT_SdKfz251_Vehicle_Blueprint.label>
+  <RT_SdKfz251_Vehicle_Blueprint.description>Бронированное транспортное средство, которое может перевозить 8 солдат одновременно, хотя они практически не защищены.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Стрелок x1, Пассажиры x8\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химическое топливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы CE:&lt;/color&gt; \n7,92x57 мм (пулемёт поддержки)</RT_SdKfz251_Vehicle_Blueprint.description>
+
+</LanguageData>

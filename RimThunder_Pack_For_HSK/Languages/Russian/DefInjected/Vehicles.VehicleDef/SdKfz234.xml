@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Транспортное средство -->
+
+  <RT_SdKfz234_Vehicle.label>Sd.Kfz.234/2</RT_SdKfz234_Vehicle.label>
+  <RT_SdKfz234_Vehicle.description>8-колеcный разведывательный автомобиль с высокой скоростью на земле, но легко повреждаемый, оснащён гранатометами.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x2, Наводчик x2\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n81мм (Основная пушка)\n7.62x54ммR (Коаксиальный пулемёт)\n30x29mm Снаряд (Пусковой установки)</RT_SdKfz234_Vehicle.description>
+  <RT_SdKfz234_Vehicle.properties.roles.0.label>Водитель</RT_SdKfz234_Vehicle.properties.roles.0.label>
+  <RT_SdKfz234_Vehicle.properties.roles.1.label>Наводчик</RT_SdKfz234_Vehicle.properties.roles.1.label>
+  <RT_SdKfz234_Vehicle.components.0.label>Двигатель</RT_SdKfz234_Vehicle.components.0.label>
+  <RT_SdKfz234_Vehicle.components.1.label>Топливный бак</RT_SdKfz234_Vehicle.components.1.label>
+  <RT_SdKfz234_Vehicle.components.2.label>Коробка передач</RT_SdKfz234_Vehicle.components.2.label>
+  <RT_SdKfz234_Vehicle.components.3.label>Боекомплект</RT_SdKfz234_Vehicle.components.3.label>
+  <RT_SdKfz234_Vehicle.components.4.label>Вал передачи</RT_SdKfz234_Vehicle.components.4.label>
+  <RT_SdKfz234_Vehicle.components.5.label>Левое переднее колесо</RT_SdKfz234_Vehicle.components.5.label>
+  <RT_SdKfz234_Vehicle.components.6.label>Правое переднее колесо</RT_SdKfz234_Vehicle.components.6.label>
+  <RT_SdKfz234_Vehicle.components.7.label>Левое среднее переднее колесо</RT_SdKfz234_Vehicle.components.7.label>
+  <RT_SdKfz234_Vehicle.components.8.label>Правое среднее переднее колесо</RT_SdKfz234_Vehicle.components.8.label>
+  <RT_SdKfz234_Vehicle.components.9.label>Левое среднее заднее колесо</RT_SdKfz234_Vehicle.components.9.label>
+  <RT_SdKfz234_Vehicle.components.10.label>Правое среднее заднее колесо</RT_SdKfz234_Vehicle.components.10.label>
+  <RT_SdKfz234_Vehicle.components.11.label>Левое заднее колесо</RT_SdKfz234_Vehicle.components.11.label>
+  <RT_SdKfz234_Vehicle.components.12.label>Правое заднее колесо</RT_SdKfz234_Vehicle.components.12.label>
+  <RT_SdKfz234_Vehicle.components.13.label>Передняя бронеплита</RT_SdKfz234_Vehicle.components.13.label>
+  <RT_SdKfz234_Vehicle.components.14.label>Левая бронеплита</RT_SdKfz234_Vehicle.components.14.label>
+  <RT_SdKfz234_Vehicle.components.15.label>Правая бронеплита</RT_SdKfz234_Vehicle.components.15.label>
+  <RT_SdKfz234_Vehicle.components.16.label>Верхняя бронеплита</RT_SdKfz234_Vehicle.components.16.label>
+  <RT_SdKfz234_Vehicle.components.17.label>Задняя бронеплита</RT_SdKfz234_Vehicle.components.17.label>
+  <RT_SdKfz234_Vehicle.components.18.label>Основная башня</RT_SdKfz234_Vehicle.components.18.label>
+
+</LanguageData>

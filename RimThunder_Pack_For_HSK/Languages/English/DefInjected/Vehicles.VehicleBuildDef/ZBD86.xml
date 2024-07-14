@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RT_ZBD86_Vehicle_Blueprint.label>ZBD86</RT_ZBD86_Vehicle_Blueprint.label>
+  <RT_ZBD86_Vehicle_Blueprint.description>An IFV equipped with a 73mm cannon with auto-loader and 7.62mm machine gun, still cannot guide missiles but have good transportation capacity.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x2，Passenger x8\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \nSPG9Rocket（Main Cannon）\n7.62x54mmR（Coaxial MG）</RT_ZBD86_Vehicle_Blueprint.description>
+
+
+</LanguageData>

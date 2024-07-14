@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 主砲的Def -->
+
+  <RT_Type87_Tank_Turret.label>main turret</RT_Type87_Tank_Turret.label>
+  <RT_Type87_Tank_Turret.fireModes.0.label>Auto</RT_Type87_Tank_Turret.fireModes.0.label>
+  <RT_Type87_Tank_Turret.fireModes.1.label>Burst</RT_Type87_Tank_Turret.fireModes.1.label>
+  <RT_Type87_Tank_Turret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; 25x137mmNATO</RT_Type87_Tank_Turret.gizmoDescription>
+
+</LanguageData>

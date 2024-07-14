@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 平衡相关 -->
+
+  <RT_ZTZ88A_Tank_Turret.label>main turret</RT_ZTZ88A_Tank_Turret.label>
+  <RT_ZTZ88A_Tank_Turret.fireModes.0.label>Single Shot</RT_ZTZ88A_Tank_Turret.fireModes.0.label>
+  <RT_ZTZ88A_Tank_Turret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; 105x617mmR</RT_ZTZ88A_Tank_Turret.gizmoDescription>
+
+  
+  <!-- 平衡相关 -->
+
+  <RT_DShK_MGTurret.label>machine gun</RT_DShK_MGTurret.label>
+  <RT_DShK_MGTurret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; 12.7x108mm</RT_DShK_MGTurret.gizmoDescription>
+  <RT_SGMT_MGTurret.label>machine gun</RT_SGMT_MGTurret.label>
+  <RT_SGMT_MGTurret.gizmoDescription>Select Target.\n\nFire for effect\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; 7.62x54mmR</RT_SGMT_MGTurret.gizmoDescription>
+
+</LanguageData>
