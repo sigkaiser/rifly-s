@@ -10,7 +10,7 @@ EN:The RimThunder core mod is already built into the pack; to work you only need
 RU:Мод RimThunder core уже встроен в пак, для работы нужен лишь vehicle framework из  стима.
 
 
-EN:List of transport: / RU:Список транспорта:
+EN:List of transport(screenshots from steam): / RU:Список транспорта(скрины из стима):
 
 ![изображение](https://github.com/user-attachments/assets/51867504-21a5-40cb-b7d5-1fbb99d7b04b)
 
@@ -28,3 +28,16 @@ EN:List of transport: / RU:Список транспорта:
 
 ![изображение](https://github.com/user-attachments/assets/ec3d195d-2a14-4362-b4a5-0e7a0ba66694)
 
+![изображение](https://github.com/user-attachments/assets/a421d935-ca3e-4204-9a70-723b3232e6c3)
+
+![изображение](https://github.com/user-attachments/assets/17b257fe-8af7-45d0-8a1d-ff559b959766)
+
+![изображение](https://github.com/user-attachments/assets/e41e893a-6e8b-4c35-b59a-a23796dc96bf)
+
+![изображение](https://github.com/user-attachments/assets/fd5473b2-32bf-49c8-9cde-311a76bea441)
+
+![изображение](https://github.com/user-attachments/assets/65bb0f78-bbe8-4f14-aab4-fa57d66bf783)
+
+![изображение](https://github.com/user-attachments/assets/d1ee63f6-695f-4bd1-a3b0-5f06e21d4ea8)
+
+![изображение](https://github.com/user-attachments/assets/88170c46-92e3-4a02-ad83-a9114931dcec)
