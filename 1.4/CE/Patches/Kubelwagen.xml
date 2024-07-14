@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<!-- Vehicle -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/statBases/ArmorRating_Blunt</xpath>
+		<value>
+			<ArmorRating_Blunt>10</ArmorRating_Blunt>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/statBases/ArmorRating_Sharp</xpath>
+		<value>
+			<ArmorRating_Sharp>5</ArmorRating_Sharp>
+		</value>
+	</Operation>
+
+	<!--Front Armor-->
+
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="EngineHood"]/health</xpath>
+		<value>
+			<health>100</health>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="EngineHood"]</xpath>
+		<value>
+			<armor>
+				<ArmorRating_Blunt>10</ArmorRating_Blunt>
+				<ArmorRating_Sharp>5</ArmorRating_Sharp>
+			</armor>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="FrontBumper"]/health</xpath>
+		<value>
+			<health>100</health>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="FrontBumper"]</xpath>
+		<value>
+			<armor>
+				<ArmorRating_Blunt>10</ArmorRating_Blunt>
+				<ArmorRating_Sharp>5</ArmorRating_Sharp>
+			</armor>
+		</value>
+	</Operation>
+
+	<!--Side Armor-->
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="LeftDoorPanel" or key="RightDoorPanel"]/health</xpath>
+		<value>
+			<health>150</health>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="LeftDoorPanel" or key="RightDoorPanel"]</xpath>
+		<value>
+			<armor>
+				<ArmorRating_Blunt>10</ArmorRating_Blunt>
+				<ArmorRating_Sharp>5</ArmorRating_Sharp>
+			</armor>
+		</value>
+	</Operation>
+
+	<!--Rear Armor-->
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="RearBumper"]/health</xpath>
+		<value>
+			<health>100</health>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="RearBumper"]</xpath>
+		<value>
+			<armor>
+				<ArmorRating_Blunt>10</ArmorRating_Blunt>
+				<ArmorRating_Sharp>5</ArmorRating_Sharp>
+			</armor>
+		</value>
+	</Operation>
+
+	<!--Various exposed metallic stuff-->
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="LeftFrontWheel" or key="RightFrontWheel" or key="LeftRearWheel" or key="RightRearWheel"]/armor</xpath>
+		<value>
+			<armor>
+				<ArmorRating_Blunt>10</ArmorRating_Blunt>
+				<ArmorRating_Sharp>5</ArmorRating_Sharp>
+			</armor>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/Vehicles.VehicleDef[defName="RT_Kubelwagen"]/components/li[key="LeftFrontWheel" or key="RightFrontWheel" or key="LeftRearWheel" or key="RightRearWheel"]/health</xpath>
+		<value>
+			<health>60</health>
+		</value>
+	</Operation>
+
+</Patch>
