@@ -2,6 +2,7 @@
 <LanguageData>
   
   <RT_Bicycle.label>Велосипед</RT_Bicycle.label>
+   
   <RT_Bicycle.description>Двухколесное транспортное средство, дешевое и простое в использовании, подходящее для широкого круга задач.</RT_Bicycle.description>
   
   <!-- RU: Передача шестерен -->
@@ -14,8 +15,5 @@
   <RT_Bicycle.components.3.label>Переднее колесо</RT_Bicycle.components.3.label>
   <!-- RU: Заднее колесо -->
   <RT_Bicycle.components.4.label>Заднее колесо</RT_Bicycle.components.4.label>
-
-  <RT_Bicycle_Blueprint.label>Велосипед</RT_Bicycle_Blueprint.label>
-  <RT_Bicycle_Blueprint.description>Двухколесное транспортное средство, дешевое и простое в использовании, подходящее для широкого круга задач.</RT_Bicycle_Blueprint.description>
   
 </LanguageData>
