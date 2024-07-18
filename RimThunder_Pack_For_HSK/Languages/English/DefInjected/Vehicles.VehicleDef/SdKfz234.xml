@@ -4,7 +4,7 @@
   <!-- 載具本體 -->
 
   <RT_SdKfz234_Vehicle.label>Sd.Kfz.234/2</RT_SdKfz234_Vehicle.label>
-  <RT_SdKfz234_Vehicle.description>A 8-wheeled scout vehicle with high speed on ground but could be easily damaged, eqipped grenade shells.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x2, Gunner x2\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n81mm (Main cannon)\n7.62x54mmR (Coaxial MG)\n30x29mm grenade Shell(grenade launcher)</RT_SdKfz234_Vehicle.description>
+  <RT_SdKfz234_Vehicle.description>A 8-wheeled scout vehicle with high speed on ground but could be easily damaged, eqipped grenade shells.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x2, Gunner x2\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n81mm (Main cannon)\7.62x51mm(Coaxial MG)\n30x29mm grenade Shell(grenade launcher)</RT_SdKfz234_Vehicle.description>
   <RT_SdKfz234_Vehicle.properties.roles.0.label>driver</RT_SdKfz234_Vehicle.properties.roles.0.label>
   <RT_SdKfz234_Vehicle.properties.roles.1.label>gunner</RT_SdKfz234_Vehicle.properties.roles.1.label>
   <RT_SdKfz234_Vehicle.components.0.label>Engine</RT_SdKfz234_Vehicle.components.0.label>

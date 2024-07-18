@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_ZSL92_Vehicle.label>ZSL92</RT_ZSL92_Vehicle.label>
-  <RT_ZSL92_Vehicle.description>Лёгкий БТР на базе гражданского грузового шасси, оснащённый 30x173мм пушкой и 7.62x54ммR пулемётом, также имеет гранатометные установки. Обладает слабой бронёй, но дешев и быстр.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x2, Наводчик x1，Пассажир x6\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n30x173мм (Главная пушка)\n7.62x54ммR (Коаксиальный пулемёт)</RT_ZSL92_Vehicle.description>
+  <RT_ZSL92_Vehicle.description>Лёгкий БТР на базе гражданского грузового шасси, оснащённый 30x173мм пушкой и 7.62x51мм пулемётом, также имеет гранатометные установки. Обладает слабой бронёй, но дешев и быстр.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x2, Наводчик x1，Пассажир x6\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n30x173мм (Главная пушка)\n7.62x51мм (Коаксиальный пулемёт)</RT_ZSL92_Vehicle.description>
   <RT_ZSL92_Vehicle.properties.roles.0.label>Водитель</RT_ZSL92_Vehicle.properties.roles.0.label>
   <RT_ZSL92_Vehicle.properties.roles.1.label>Наводчик</RT_ZSL92_Vehicle.properties.roles.1.label>
   <RT_ZSL92_Vehicle.properties.roles.2.label>Пассажир</RT_ZSL92_Vehicle.properties.roles.2.label>

@@ -71,7 +71,7 @@
 	<Operation Class="PatchOperationAdd">
 		<xpath>Defs/Vehicles.VehicleTurretDef[defName="RT_MG34_MGTurret"]</xpath>
 		<value>
-			<projectile>Bullet_762x54mmR_FMJ</projectile>
+			<projectile>Bullet_762x51mmNATO_FMJ</projectile>
 		</value>
 	</Operation>
 
@@ -125,7 +125,7 @@
 		<xpath>Defs/Vehicles.VehicleTurretDef[defName="RT_MG34_MGTurret"]</xpath>
 		<value>
 			<li Class="Vehicles.CETurretDataDefModExtension">
-				<ammoSet>AmmoSet_762x54mmR</ammoSet>
+				<ammoSet>AmmoSet_762x51mmNATO</ammoSet>
 				<shotHeight>2</shotHeight>
 				<speed>154</speed>
 				<sway>0.94</sway>

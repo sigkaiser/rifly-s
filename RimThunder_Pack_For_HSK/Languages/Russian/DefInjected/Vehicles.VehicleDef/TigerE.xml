@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_TigerE_Vehicle.label>Tiger E</RT_TigerE_Vehicle.label>
-  <RT_TigerE_Vehicle.description>Сверхтяжёлый танк с мощнейшим орудием и броней, который может легко победить любого врага, но имеет очень низкую скорость и трудно поддается ремонту.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x3, Стрелок пулемёта x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n155мм (Главная пушка)\n7.62x54ммR (Пулемёт в корпусе и коаксиальный пулемёт)</RT_TigerE_Vehicle.description>
+  <RT_TigerE_Vehicle.description>Сверхтяжёлый танк с мощнейшим орудием и броней, который может легко победить любого врага, но имеет очень низкую скорость и трудно поддается ремонту.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x3, Стрелок пулемёта x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n155мм(Главная пушка)\n7.62x51мм(Пулемёт в корпусе и коаксиальный пулемёт)</RT_TigerE_Vehicle.description>
   <RT_TigerE_Vehicle.properties.roles.0.label>Водитель</RT_TigerE_Vehicle.properties.roles.0.label>
   <RT_TigerE_Vehicle.properties.roles.1.label>Наводчик</RT_TigerE_Vehicle.properties.roles.1.label>
   <RT_TigerE_Vehicle.properties.roles.2.label>Стрелок пулемёта</RT_TigerE_Vehicle.properties.roles.2.label>

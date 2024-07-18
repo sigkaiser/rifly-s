@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_Pz38tG_Vehicle.label>Pz.38(t) G</RT_Pz38tG_Vehicle.label>
-  <RT_Pz38tG_Vehicle.description>Лёгкий танк с слабой броней и высокой мобильностью, легко производить и использовать в боях с пехотой.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x2, Пулемётчик x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n81мм (Основная пушка)\n7.62x54ммR (Пулемёт на корпусе и коаксиальный пулемёт)</RT_Pz38tG_Vehicle.description>
+  <RT_Pz38tG_Vehicle.description>Лёгкий танк с слабой броней и высокой мобильностью, легко производить и использовать в боях с пехотой.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x2, Пулемётчик x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n81мм(Основная пушка)\n7.62x51мм(Пулемёт на корпусе и коаксиальный пулемёт)</RT_Pz38tG_Vehicle.description>
   <RT_Pz38tG_Vehicle.properties.roles.0.label>Водитель</RT_Pz38tG_Vehicle.properties.roles.0.label>
   <RT_Pz38tG_Vehicle.properties.roles.1.label>Наводчик</RT_Pz38tG_Vehicle.properties.roles.1.label>
   <RT_Pz38tG_Vehicle.properties.roles.2.label>Пулемётчик</RT_Pz38tG_Vehicle.properties.roles.2.label>

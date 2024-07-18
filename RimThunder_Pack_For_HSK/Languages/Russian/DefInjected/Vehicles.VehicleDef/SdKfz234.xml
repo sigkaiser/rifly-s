@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_SdKfz234_Vehicle.label>Sd.Kfz.234/2</RT_SdKfz234_Vehicle.label>
-  <RT_SdKfz234_Vehicle.description>8-колеcный разведывательный автомобиль с высокой скоростью на земле, но легко повреждаемый, оснащён гранатометами.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x2, Наводчик x2\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n81мм (Основная пушка)\n7.62x54ммR (Коаксиальный пулемёт)\n30x29mm Снаряд (Пусковой установки)</RT_SdKfz234_Vehicle.description>
+  <RT_SdKfz234_Vehicle.description>8-колеcный разведывательный автомобиль с высокой скоростью на земле, но легко повреждаемый, оснащён гранатометами.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x2, Наводчик x2\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n81мм(Основная пушка)\n7.62x51мм(Коаксиальный пулемёт)\n30x29mm(Пусковой установки)</RT_SdKfz234_Vehicle.description>
   <RT_SdKfz234_Vehicle.properties.roles.0.label>Водитель</RT_SdKfz234_Vehicle.properties.roles.0.label>
   <RT_SdKfz234_Vehicle.properties.roles.1.label>Наводчик</RT_SdKfz234_Vehicle.properties.roles.1.label>
   <RT_SdKfz234_Vehicle.components.0.label>Двигатель</RT_SdKfz234_Vehicle.components.0.label>

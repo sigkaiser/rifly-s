@@ -4,7 +4,7 @@
   <!-- 載具本體 -->
 
   <RT_ZTZ88A_Vehicle.label>ZTZ88A</RT_ZTZ88A_Vehicle.label>
-  <RT_ZTZ88A_Vehicle.description>A 2nd generation MBT, equipped with an 120mm cannon and .50BMG machine gun, also with smoke launchers, added composite armor module in front.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x2，Commander x1\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n120mm（Main Cannon）\n.50BMG（Support MG）\n7.62x54mmR（Coaxial MG）</RT_ZTZ88A_Vehicle.description>
+  <RT_ZTZ88A_Vehicle.description>A 2nd generation MBT, equipped with an 120mm cannon and .50BMG machine gun, also with smoke launchers, added composite armor module in front.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x2，Commander x1\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n120mm（Main Cannon）\n.50BMG（Support MG）\n7.62x51mm（Coaxial MG）</RT_ZTZ88A_Vehicle.description>
   <RT_ZTZ88A_Vehicle.properties.roles.0.label>driver</RT_ZTZ88A_Vehicle.properties.roles.0.label>
   <RT_ZTZ88A_Vehicle.properties.roles.1.label>gunner</RT_ZTZ88A_Vehicle.properties.roles.1.label>
   <RT_ZTZ88A_Vehicle.properties.roles.2.label>commander</RT_ZTZ88A_Vehicle.properties.roles.2.label>

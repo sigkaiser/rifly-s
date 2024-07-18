@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_ZTZ88A_Vehicle.label>ZTZ88A</RT_ZTZ88A_Vehicle.label>
-  <RT_ZTZ88A_Vehicle.description>Второе поколение танка среднего веса, оснащённого 120-мм пушкой и 7.62x54ммR пулемётом, также имеет гранатометные установки и композитные бронемодули спереди.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x2，Командир x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n120мм (Главная пушка)\n.50BMG (Поддерживающий пулемёт)\n7.62x54ммR (Коаксиальный пулемёт)</RT_ZTZ88A_Vehicle.description>
+  <RT_ZTZ88A_Vehicle.description>Второе поколение танка среднего веса, оснащённого 120-мм пушкой и 7.62x51мм пулемётом, также имеет гранатометные установки и композитные бронемодули спереди.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x2，Командир x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n120мм(Главная пушка)\n.50BMG(Поддерживающий пулемёт)\n7.62x51мм(Коаксиальный пулемёт)</RT_ZTZ88A_Vehicle.description>
   <RT_ZTZ88A_Vehicle.properties.roles.0.label>Водитель</RT_ZTZ88A_Vehicle.properties.roles.0.label>
   <RT_ZTZ88A_Vehicle.properties.roles.1.label>Наводчик</RT_ZTZ88A_Vehicle.properties.roles.1.label>
   <RT_ZTZ88A_Vehicle.properties.roles.2.label>Командир</RT_ZTZ88A_Vehicle.properties.roles.2.label>

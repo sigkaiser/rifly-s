@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_Wirbelwind_Vehicle.label>Wirbelwind</RT_Wirbelwind_Vehicle.label>
-  <RT_Wirbelwind_Vehicle.description>Зенитная самоходная установка на базе известной платформы Pz.IV, оснащённая четырьмя 20x102мм пушками, способная наносить смертельные удары по воздушным и наземным целям.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x3, Пулемётчик x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n20x102мм (Главная пушка)\n7.62x54ммR (Пулемёт в корпусе и коаксиальный пулемёт)</RT_Wirbelwind_Vehicle.description>
+  <RT_Wirbelwind_Vehicle.description>Зенитная самоходная установка на базе известной платформы Pz.IV, оснащённая четырьмя 20x102мм пушками, способная наносить смертельные удары по воздушным и наземным целям.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x3, Пулемётчик x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n20x102мм(Главная пушка)\n7.62x51мм(Пулемёт в корпусе и коаксиальный пулемёт)</RT_Wirbelwind_Vehicle.description>
   <RT_Wirbelwind_Vehicle.properties.roles.0.label>Водитель</RT_Wirbelwind_Vehicle.properties.roles.0.label>
   <RT_Wirbelwind_Vehicle.properties.roles.1.label>Наводчик</RT_Wirbelwind_Vehicle.properties.roles.1.label>
   <RT_Wirbelwind_Vehicle.properties.roles.2.label>Пулемётчик</RT_Wirbelwind_Vehicle.properties.roles.2.label>

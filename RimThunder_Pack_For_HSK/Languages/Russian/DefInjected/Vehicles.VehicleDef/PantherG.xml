@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_PantherG_Vehicle.label>Пантера G</RT_PantherG_Vehicle.label>
-  <RT_PantherG_Vehicle.description>Известный металлический зверь с толстой броней и тяжёлой пушкой, хорошо подходит для боя, но трудоемок в обслуживании.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик пушки x3, Стрелок пулемёта x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n120мм (Основная пушка)\n7.62x54ммR (Пулемёты на корпусе и коаксиальный)</RT_PantherG_Vehicle.description>
+  <RT_PantherG_Vehicle.description>Известный металлический зверь с толстой броней и тяжёлой пушкой, хорошо подходит для боя, но трудоемок в обслуживании.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик пушки x3, Стрелок пулемёта x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n120мм(Основная пушка)\n7.62x51мм(Пулемёты на корпусе и коаксиальный)</RT_PantherG_Vehicle.description>
   <RT_PantherG_Vehicle.properties.roles.0.label>Водитель</RT_PantherG_Vehicle.properties.roles.0.label>
   <RT_PantherG_Vehicle.properties.roles.1.label>Наводчик пушки</RT_PantherG_Vehicle.properties.roles.1.label>
   <RT_PantherG_Vehicle.properties.roles.2.label>Стрелок пулемёта</RT_PantherG_Vehicle.properties.roles.2.label>

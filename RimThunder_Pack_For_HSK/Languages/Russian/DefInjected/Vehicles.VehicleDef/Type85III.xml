@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_Type85III_Vehicle.label>Type85-III</RT_Type85III_Vehicle.label>
-  <RT_Type85III_Vehicle.description>Танк второго поколения, разработанный для внешней торговли, оснащён 120мм пушкой с автоматической перезарядкой и 7.62x54ммR пулемётом, а также гранатометами, композитной броней для большей защиты.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x1, Командир x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n120мм пушка (Главная пушка)\n.50BMG (Поддерживающий пулемёт)\n7.62x54ммR (Коаксиальный пулемёт)</RT_Type85III_Vehicle.description>
+  <RT_Type85III_Vehicle.description>Танк второго поколения, разработанный для внешней торговли, оснащён 120мм пушкой с автоматической перезарядкой и 7.62x54ммR пулемётом, а также гранатометами, композитной броней для большей защиты.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x1, Командир x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n120мм пушка (Главная пушка)\n.50BMG(Поддерживающий пулемёт)\n7.62x51мм(Коаксиальный пулемёт)</RT_Type85III_Vehicle.description>
   <RT_Type85III_Vehicle.properties.roles.0.label>Водитель</RT_Type85III_Vehicle.properties.roles.0.label>
   <RT_Type85III_Vehicle.properties.roles.1.label>Наводчик</RT_Type85III_Vehicle.properties.roles.1.label>
   <RT_Type85III_Vehicle.properties.roles.2.label>Командир</RT_Type85III_Vehicle.properties.roles.2.label>

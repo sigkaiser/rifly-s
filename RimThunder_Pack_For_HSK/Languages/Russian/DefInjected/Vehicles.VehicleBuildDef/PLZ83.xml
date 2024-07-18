@@ -2,6 +2,6 @@
 <LanguageData>
 
   <RT_PLZ83_Vehicle_Blueprint.label>PLZ83</RT_PLZ83_Vehicle_Blueprint.label>
-  <RT_PLZ83_Vehicle_Blueprint.description>САУ, оснащённая 155мм гаубицей и .50BMG пулемётом, требует развертывания для стрельбы, имеет слабую броню, но обладает смертельной огневой мощью.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x3, Командир x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химическое топливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы CE:&lt;/color&gt; \n155 мм гаубица (Главное орудие)\n.50BMG мм (Пулемёт поддержки)</RT_PLZ83_Vehicle_Blueprint.description>
+  <RT_PLZ83_Vehicle_Blueprint.description>САУ, оснащённая 155мм гаубицей и .50BMG пулемётом, требует развертывания для стрельбы, имеет слабую броню, но обладает смертельной огневой мощью.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x3, Командир x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химическое топливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы CE:&lt;/color&gt; \n155мм(Главное орудие)\n.50BMG(Пулемёт поддержки)</RT_PLZ83_Vehicle_Blueprint.description>
 
 </LanguageData>

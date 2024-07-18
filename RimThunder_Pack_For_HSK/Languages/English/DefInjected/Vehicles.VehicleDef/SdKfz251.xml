@@ -4,7 +4,7 @@
   <!-- 載具本體 -->
 
   <RT_SdKfz251_Vehicle.label>Sd.Kfz.251 Ausf.D</RT_SdKfz251_Vehicle.label>
-  <RT_SdKfz251_Vehicle.description>An armored vehicle which could carry 8 soldiers each time, though they are almost unprotected.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1, Passenger x8\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n7.62x54mmR（Support MG）</RT_SdKfz251_Vehicle.description>
+  <RT_SdKfz251_Vehicle.description>An armored vehicle which could carry 8 soldiers each time, though they are almost unprotected.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1, Passenger x8\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n7.62x51mm（Support MG）</RT_SdKfz251_Vehicle.description>
   <RT_SdKfz251_Vehicle.properties.roles.0.label>Driver</RT_SdKfz251_Vehicle.properties.roles.0.label>
   <RT_SdKfz251_Vehicle.properties.roles.1.label>Gunner</RT_SdKfz251_Vehicle.properties.roles.1.label>
   <RT_SdKfz251_Vehicle.properties.roles.2.label>Passenger</RT_SdKfz251_Vehicle.properties.roles.2.label>

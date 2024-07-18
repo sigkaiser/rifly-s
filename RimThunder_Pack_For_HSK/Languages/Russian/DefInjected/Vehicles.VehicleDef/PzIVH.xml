@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_PzIVH_Vehicle.label>Pz.IV H</RT_PzIVH_Vehicle.label>
-  <RT_PzIVH_Vehicle.description>Средний танк, известный как «Немецкая рабочая лошадка», способен выполнять различные задачи, оснащён дополнительной боковой бронёй для большей защиты.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x3, Пулемётчик x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n90мм (Основная пушка)\n7.62x54ммR (Пулемёт на корпусе и коаксиальный пулемёт)</RT_PzIVH_Vehicle.description>
+  <RT_PzIVH_Vehicle.description>Средний танк, известный как «Немецкая рабочая лошадка», способен выполнять различные задачи, оснащён дополнительной боковой бронёй для большей защиты.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x3, Пулемётчик x1\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n90мм(Основная пушка)\n7.62x51мм(Пулемёт на корпусе и коаксиальный пулемёт)</RT_PzIVH_Vehicle.description>
   <RT_PzIVH_Vehicle.properties.roles.0.label>Водитель</RT_PzIVH_Vehicle.properties.roles.0.label>
   <RT_PzIVH_Vehicle.properties.roles.1.label>Наводчик</RT_PzIVH_Vehicle.properties.roles.1.label>
   <RT_PzIVH_Vehicle.properties.roles.2.label>Пулемётчик</RT_PzIVH_Vehicle.properties.roles.2.label>

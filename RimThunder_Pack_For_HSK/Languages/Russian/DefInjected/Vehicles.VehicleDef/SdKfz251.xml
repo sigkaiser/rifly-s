@@ -4,7 +4,7 @@
   <!-- Транспортное средство -->
 
   <RT_SdKfz251_Vehicle.label>Sd.Kfz.251 Ausf.D</RT_SdKfz251_Vehicle.label>
-  <RT_SdKfz251_Vehicle.description>Бронированное транспортное средство, которое может перевозить 8 солдат одновременно, хотя они практически не защищены.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x1, Пассажир x8\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n7.62x54ммR (Поддерживающий пулемёт)</RT_SdKfz251_Vehicle.description>
+  <RT_SdKfz251_Vehicle.description>Бронированное транспортное средство, которое может перевозить 8 солдат одновременно, хотя они практически не защищены.\n\n&lt;color=#bb8f04&gt;Экипаж:&lt;/color&gt; Водитель x1, Наводчик x1, Пассажир x8\n&lt;color=#bb8f04&gt;Топливо:&lt;/color&gt; Химтопливо\n\n&lt;color=#b0e0e6&gt;Боеприпасы:&lt;/color&gt; \n7.62x51мм(Поддерживающий пулемёт)</RT_SdKfz251_Vehicle.description>
   <RT_SdKfz251_Vehicle.properties.roles.0.label>Водитель</RT_SdKfz251_Vehicle.properties.roles.0.label>
   <RT_SdKfz251_Vehicle.properties.roles.1.label>Наводчик</RT_SdKfz251_Vehicle.properties.roles.1.label>
   <RT_SdKfz251_Vehicle.properties.roles.2.label>Пассажир</RT_SdKfz251_Vehicle.properties.roles.2.label>

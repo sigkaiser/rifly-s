@@ -4,7 +4,7 @@
   <!-- 載具本體 -->
 
   <RT_Type85III_Vehicle.label>Type85-III</RT_Type85III_Vehicle.label>
-  <RT_Type85III_Vehicle.description>A 2nd generation MBT designed for foreign trade, equipped with an 120mm cannon with auto-loader and 7.62x54mmR machine gun, also with grenade launchers, applied composite armor and ERA for improved defensibility.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1，Commander x1\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n120mm（Main Cannon）\n.50BMG（Support MG）\n7.62x54mmR（Coaxial MG）</RT_Type85III_Vehicle.description>
+  <RT_Type85III_Vehicle.description>A 2nd generation MBT designed for foreign trade, equipped with an 120mm cannon with auto-loader and 7.62x51mm machine gun, also with grenade launchers, applied composite armor and ERA for improved defensibility.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1，Commander x1\n&lt;color=#bb8f04&gt;Fuel:&lt;/color&gt; Chemfuel\n\n&lt;color=#b0e0e6&gt;CE Ammo:&lt;/color&gt; \n120mm（Main Cannon）\n.50BMG（Support MG）\n7.62x51mm（Coaxial MG）</RT_Type85III_Vehicle.description>
   <RT_Type85III_Vehicle.properties.roles.0.label>driver</RT_Type85III_Vehicle.properties.roles.0.label>
   <RT_Type85III_Vehicle.properties.roles.1.label>gunner</RT_Type85III_Vehicle.properties.roles.1.label>
   <RT_Type85III_Vehicle.properties.roles.2.label>commander</RT_Type85III_Vehicle.properties.roles.2.label>
