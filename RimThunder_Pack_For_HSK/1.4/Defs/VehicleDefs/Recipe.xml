@@ -1864,15 +1864,6 @@
 		<li>Electronics</li>
 	</thingDefs>
 </fixedIngredientFilter>
-			<thingDefs>
-				<li>EngineMedium</li>
-				<li>ComponentFuelTank</li>
-				<li>ComponentTransmission</li>
-				<li>ComponentWheelRoad</li>
-				<li>ComponentIndustrial</li>
-				<li>Steel</li>
-			</thingDefs>
-		</fixedIngredientFilter>
 		<modExtensions>
 			<li Class="Motorization.ModExt_RTCVehicleRecipe">
 				<thing>RT_PzIVH_Vehicle_Blueprint</thing>

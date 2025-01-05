@@ -9,7 +9,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAddModExtension">
-		<xpath>Defs/Vehicles.VehicleTurretDef[defName="RT_ZBD86ce_Tank_Turret"]</xpath>
+		<xpath>Defs/Vehicles.VehicleTurretDef[defName="RT_ZBD86_Tank_Turret"]</xpath>
 		<value>
 			<li Class="Vehicles.CETurretDataDefModExtension">
 				<ammoSet>AmmoSet_81mmMortarShell</ammoSet>
