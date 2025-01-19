@@ -17,6 +17,22 @@
   </SoundDef>
 
   <SoundDef>
+    <defName>VVE_VehicleStart</defName>  
+    <context>MapOnly</context>  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>VehicleStart</clipPath>
+          </li>
+        </grains>      
+        <volumeRange>40~40</volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+
+  <SoundDef>
     <defName>RT_T72VehicleStart</defName>  
     <context>MapOnly</context>  
     <maxSimultaneous>1</maxSimultaneous>  
