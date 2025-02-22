@@ -19,14 +19,18 @@
 		<constructionSkillPrerequisite>12</constructionSkillPrerequisite>
 		<costList>
 			<EngineJet>3</EngineJet>
-			<ComponentFuelTank>6</ComponentFuelTank>
-			<ComponentTransmission>4</ComponentTransmission>
-			<ComponentWheelTire>6</ComponentWheelTire>
-			<ComponentIndustrial>50</ComponentIndustrial>
-			<Steel>800</Steel>
-			<Plasteel>200</Plasteel>
-			<Silver>100</Silver>
-			<Chemfuel>150</Chemfuel>
+			<ComponentFuelTank>3</ComponentFuelTank>
+			<ComponentTransmission>3</ComponentTransmission>
+			<ComponentWheelTire>5</ComponentWheelTire>
+			<ComponentAdvanced>60</ComponentAdvanced>
+			<ReinforcedGlass>80</ReinforcedGlass>
+			<Plasteel>450</Plasteel>
+			<Titanium>300</Titanium>
+			<Plastic>200</Plastic>
+			<AluminiumBar>180</AluminiumBar>
+			<AdvMechanism>40</AdvMechanism>
+			<ElectronicComponents>50</ElectronicComponents>
+			<Electronics>20</Electronics>
 		</costList>
 		<thingToSpawn>RT_CH53E_Vehicle</thingToSpawn>
 		<!-- 建造後生成的載具Kind,這是與建築唯一不一樣的-->

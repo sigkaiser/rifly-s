@@ -22,15 +22,13 @@
 			<ComponentFuelTank>1</ComponentFuelTank>
 			<ComponentTransmission>1</ComponentTransmission>
 			<ComponentWheelRoad>8</ComponentWheelRoad>
-			<ComponentIndustrial>50</ComponentIndustrial>
 			<ComponentAdvanced>20</ComponentAdvanced>
 			<ReinforcedGlass>15</ReinforcedGlass>
-			<Plasteel>300</Plasteel>
+			<Plasteel>200</Plasteel>
 			<Titanium>100</Titanium>
 			<Plastic>100</Plastic>
 			<AluminiumBar>20</AluminiumBar>
-			<Mechanism>60</Mechanism>
-			<AdvMechanism>20</AdvMechanism>
+			<AdvMechanism>10</AdvMechanism>
 			<ElectronicComponents>10</ElectronicComponents>
 		</costList>
 		<thingToSpawn>RT_Pz38tG_Vehicle</thingToSpawn>

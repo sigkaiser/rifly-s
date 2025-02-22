@@ -25,16 +25,14 @@
 			<ComponentFuelTank>4</ComponentFuelTank>
 			<ComponentTransmission>4</ComponentTransmission>
 			<ComponentWheelTire>8</ComponentWheelTire>
-			<ComponentIndustrial>150</ComponentIndustrial>
 			<ComponentAdvanced>80</ComponentAdvanced>
 			<ReinforcedGlass>100</ReinforcedGlass>
 			<Plasteel>600</Plasteel>
 			<Titanium>400</Titanium>
 			<Plastic>300</Plastic>
 			<AluminiumBar>250</AluminiumBar>
-			<Mechanism>80</Mechanism>
-			<AdvMechanism>60</AdvMechanism>
-			<ElectronicComponents>70</ElectronicComponents>
+			<AdvMechanism>40</AdvMechanism>
+			<ElectronicComponents>60</ElectronicComponents>
 			<Electronics>30</Electronics>
 		</costList>
 		

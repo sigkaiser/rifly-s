@@ -25,14 +25,12 @@
 			<ComponentFuelTank>2</ComponentFuelTank>
 			<ComponentTransmission>1</ComponentTransmission>
 			<ComponentWheelTire>6</ComponentWheelTire>
-			<ComponentIndustrial>60</ComponentIndustrial>
 			<ComponentAdvanced>25</ComponentAdvanced>
 			<ReinforcedGlass>25</ReinforcedGlass>
 			<Plasteel>325</Plasteel>
 			<Titanium>125</Titanium>
 			<Plastic>100</Plastic>
 			<AluminiumBar>30</AluminiumBar>
-			<Mechanism>50</Mechanism>
 			<AdvMechanism>30</AdvMechanism>
 			<ElectronicComponents>15</ElectronicComponents>
 			<Electronics>5</Electronics>

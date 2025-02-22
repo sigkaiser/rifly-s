@@ -23,14 +23,13 @@
 			<ComponentTransmission>1</ComponentTransmission>
 			<ComponentWheelTire>2</ComponentWheelTire>
 			<ComponentWheelRoad>16</ComponentWheelRoad>
-			<ComponentIndustrial>60</ComponentIndustrial>
 			<ComponentAdvanced>20</ComponentAdvanced>
 			<ReinforcedGlass>50</ReinforcedGlass>
 			<Plasteel>250</Plasteel>
 			<Titanium>60</Titanium>
 			<Plastic>140</Plastic>
 			<AluminiumBar>100</AluminiumBar>
-			<Mechanism>60</Mechanism>
+			<Mechanism>40</Mechanism>
 			<ElectronicComponents>10</ElectronicComponents>
 		</costList>
 		<thingToSpawn>RT_SdKfz251_Vehicle</thingToSpawn>
